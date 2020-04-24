@@ -3,5 +3,6 @@ module.exports = {
   devServer: {
     quiet: true,
     clientLogLevel: 'silent',
+    noInfo: true,
   },
 }
